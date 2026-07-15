@@ -1,0 +1,19 @@
+## Frameworks
+
+**Lingguagem
+**Frameworks
+    - Flask
+    -Django
+    -FastAPI
+
+**  14/047/2026
+    -Criar a API
+    -Rodar os Testes
+    -Deploy
+
+Comandos --> CRUD ( Get, Post, Put, Delete ).
+
+Flask ( responsavel por criar rotas )
+Cors ( Permite requisições externas )
+Pandas ( Manipulação de tabelas e dados )
+Sklearn ( Treinar o modelo )
