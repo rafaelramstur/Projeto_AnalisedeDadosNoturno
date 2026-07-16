@@ -1,10 +1,4 @@
-Para tornar o seu `README.md` interativo e dinâmico diretamente no GitHub, podemos usar alguns recursos visuais modernos, como **badges dinâmicos**, **detalhes expansíveis (dropdowns)** para organizar o conteúdo, **links rápidos de teste**, **tabelas interativas** e um **guia visual de como testar a API de forma simples**.
 
-Aqui está uma versão otimizada e interativa do seu README:
-
----
-
-```markdown
 # 🚗 CarPrice Predictor API
 
 <p align="center">
