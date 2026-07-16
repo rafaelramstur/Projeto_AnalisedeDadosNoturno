@@ -103,7 +103,11 @@ O modelo utiliza as seguintes variáveis do seu arquivo `.csv`:
 | `num_revisoes` | `int` | Quantidade de revisões feitas | `4` |
 
 ---
+## Site pulbicado 
+ Confira o site completo e funcional:
 
+ 🔗 https://projeto-favaro.lovable.app/
+ 
 ## 👤 Autor
 
 Desenvolvido com 💻 por **Favaro**.
